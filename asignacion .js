@@ -25,7 +25,7 @@ const alumno = {
 
 console.log(alumno)
 
-alumno.genero = "Masulino"
+alumno.genero = "Masculino"
 
 alumno.edad = 21
 
