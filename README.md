@@ -1,1 +1,1 @@
-# javascript-poo
+# JavaScript POO
